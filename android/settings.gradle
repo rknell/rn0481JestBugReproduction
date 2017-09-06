@@ -1,0 +1,3 @@
+rootProject.name = 'rnJestBugRepl'
+
+include ':app'
